@@ -1,6 +1,6 @@
 # OWASP_ISO27k1Mapping
 
-Ergebnis der Untersuchung über ein Mapping von ISO 27001 Controls auf Schwachstellen, die aus den OWASP Top 10 Risiken resultieren.
+Ergebnis der Untersuchung "Mapping technischer Schwachstellen aus der OWASP Top 10 auf ISO/IEC 27001 Controls".
 
 Das Mapping ist in seinem Ergebnis als "direkt" und "mittelbar" durchgeführt worden.
 
